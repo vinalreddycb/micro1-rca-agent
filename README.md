@@ -20,7 +20,7 @@ Follow these steps to reproduce both the baseline and agent workflows from a cle
 ### Environment Setup
 ```bash
 # Clone the repository and enter the directory
-git clone https://github.com/vinalreddycb/micro1-rca-agent
+git clone https://github.com/vinalreddycb/micro1-rca-agent.git
 cd micro1-rca-agent
 
 # Create and activate a clean virtual environment
