@@ -1,0 +1,101 @@
+Date,Pincode,Region,Category,Platform,Payment_Type,Promo_Code,Inventory_Status,Sessions,Orders
+2026-08-01,560102,South,Laptops,Android_v12,Card,DIWALI50,In_Stock,4500,0
+2026-08-02,751001,East,Winter Wear,iOS_v16.6,NetBanking,DIWALI50,In_Stock,4519,0
+2026-08-03,411001,West,Large Appliances,Web,COD,DIWALI50,In_Stock,4538,0
+2026-08-04,122001,North,FMCG_Groceries,Android_v13,UPI,DIWALI50,In_Stock,4557,0
+2026-08-05,600001,South,Home Decor,iOS_v17.2,Wallet,DIWALI50,In_Stock,4576,0
+2026-08-06,751001,East,Fashion,Android_v12,Card,DIWALI50,In_Stock,4595,0
+2026-08-07,411001,West,Mobiles,iOS_v16.6,NetBanking,DIWALI50,In_Stock,4614,0
+2026-08-08,122001,North,Laptops,Web,COD,DIWALI50,In_Stock,4633,0
+2026-08-09,560001,South,Winter Wear,Android_v13,UPI,DIWALI50,In_Stock,4652,0
+2026-08-10,751001,East,Large Appliances,iOS_v17.2,Wallet,DIWALI50,In_Stock,4671,0
+2026-08-01,411001,West,FMCG_Groceries,Android_v12,Card,DIWALI50,In_Stock,4690,0
+2026-08-02,122001,North,Home Decor,iOS_v16.6,NetBanking,DIWALI50,In_Stock,4709,0
+2026-08-03,560103,South,Fashion,Web,COD,DIWALI50,In_Stock,4728,0
+2026-08-04,751001,East,Mobiles,Android_v13,UPI,DIWALI50,In_Stock,4747,0
+2026-08-05,411001,West,Laptops,iOS_v17.2,Wallet,DIWALI50,In_Stock,4766,0
+2026-08-06,122001,North,Winter Wear,Android_v12,Card,DIWALI50,In_Stock,4785,0
+2026-08-07,500001,South,Large Appliances,iOS_v16.6,NetBanking,DIWALI50,In_Stock,4804,0
+2026-08-08,751001,East,FMCG_Groceries,Web,COD,DIWALI50,In_Stock,4823,0
+2026-08-09,411001,West,Home Decor,Android_v13,UPI,DIWALI50,In_Stock,4842,0
+2026-08-10,122001,North,Fashion,iOS_v17.2,Wallet,DIWALI50,In_Stock,4861,0
+2026-08-01,560102,South,Mobiles,Android_v12,Card,DIWALI50,In_Stock,4880,0
+2026-08-02,751001,East,Laptops,iOS_v16.6,NetBanking,DIWALI50,In_Stock,4899,0
+2026-08-03,411001,West,Winter Wear,Web,COD,DIWALI50,In_Stock,4918,0
+2026-08-04,122001,North,Large Appliances,Android_v13,UPI,DIWALI50,In_Stock,4937,0
+2026-08-05,600001,South,FMCG_Groceries,iOS_v17.2,Wallet,DIWALI50,In_Stock,4956,0
+2026-08-06,751001,East,Home Decor,Android_v12,Card,WELCOME20,In_Stock,1586,68
+2026-08-07,411001,West,Fashion,iOS_v16.6,NetBanking,FESTIVE15,In_Stock,1965,86
+2026-08-08,122001,North,Mobiles,Web,COD,NONE,In_Stock,2344,104
+2026-08-09,560001,South,Laptops,Android_v13,UPI,SAVE10,In_Stock,2723,124
+2026-08-10,751001,East,Winter Wear,iOS_v17.2,Wallet,WELCOME20,In_Stock,3102,144
+2026-08-01,411001,West,Large Appliances,Android_v12,Card,FESTIVE15,In_Stock,3481,164
+2026-08-02,122001,North,FMCG_Groceries,iOS_v16.6,NetBanking,NONE,In_Stock,3860,186
+2026-08-03,560103,South,Home Decor,Web,COD,SAVE10,In_Stock,4239,208
+2026-08-04,751001,East,Fashion,Android_v13,UPI,WELCOME20,In_Stock,4618,185
+2026-08-05,411001,West,Mobiles,iOS_v17.2,Wallet,FESTIVE15,In_Stock,4997,204
+2026-08-06,122001,North,Laptops,Android_v12,Card,NONE,In_Stock,875,37
+2026-08-07,500001,South,Winter Wear,iOS_v16.6,NetBanking,SAVE10,In_Stock,1254,54
+2026-08-08,751001,East,Large Appliances,Web,COD,WELCOME20,In_Stock,1633,71
+2026-08-09,411001,West,FMCG_Groceries,Android_v13,UPI,FESTIVE15,In_Stock,2012,90
+2026-08-10,122001,North,Home Decor,iOS_v17.2,Wallet,NONE,In_Stock,2391,109
+2026-08-01,560102,South,Fashion,Android_v12,Card,SAVE10,In_Stock,2770,128
+2026-08-02,751001,East,Mobiles,iOS_v16.6,NetBanking,WELCOME20,In_Stock,3149,149
+2026-08-03,411001,West,Laptops,Web,COD,FESTIVE15,In_Stock,3528,170
+2026-08-04,122001,North,Winter Wear,Android_v13,UPI,NONE,In_Stock,3907,191
+2026-08-05,600001,South,Large Appliances,iOS_v17.2,Wallet,SAVE10,In_Stock,4286,171
+2026-08-06,751001,East,FMCG_Groceries,Android_v12,Card,WELCOME20,In_Stock,4665,191
+2026-08-07,411001,West,Home Decor,iOS_v16.6,NetBanking,FESTIVE15,In_Stock,543,23
+2026-08-08,122001,North,Fashion,Web,COD,NONE,In_Stock,922,39
+2026-08-09,560001,South,Mobiles,Android_v13,UPI,SAVE10,In_Stock,1301,57
+2026-08-10,751001,East,Laptops,iOS_v17.2,Wallet,WELCOME20,In_Stock,1680,75
+2026-08-01,411001,West,Winter Wear,Android_v12,Card,FESTIVE15,In_Stock,2059,93
+2026-08-02,122001,North,Large Appliances,iOS_v16.6,NetBanking,NONE,In_Stock,2438,113
+2026-08-03,560103,South,FMCG_Groceries,Web,COD,SAVE10,In_Stock,2817,133
+2026-08-04,751001,East,Home Decor,Android_v13,UPI,WELCOME20,In_Stock,3196,154
+2026-08-05,411001,West,Fashion,iOS_v17.2,Wallet,FESTIVE15,In_Stock,3575,175
+2026-08-06,122001,North,Mobiles,Android_v12,Card,NONE,In_Stock,3954,158
+2026-08-07,500001,South,Laptops,iOS_v16.6,NetBanking,SAVE10,In_Stock,4333,177
+2026-08-08,751001,East,Winter Wear,Web,COD,WELCOME20,In_Stock,4712,197
+2026-08-09,411001,West,Large Appliances,Android_v13,UPI,FESTIVE15,In_Stock,590,25
+2026-08-10,122001,North,FMCG_Groceries,iOS_v17.2,Wallet,NONE,In_Stock,969,42
+2026-08-01,560102,South,Home Decor,Android_v12,Card,SAVE10,In_Stock,1348,60
+2026-08-02,751001,East,Fashion,iOS_v16.6,NetBanking,WELCOME20,In_Stock,1727,78
+2026-08-03,411001,West,Mobiles,Web,COD,FESTIVE15,In_Stock,2106,98
+2026-08-04,122001,North,Laptops,Android_v13,UPI,NONE,In_Stock,2485,117
+2026-08-05,600001,South,Winter Wear,iOS_v17.2,Wallet,SAVE10,In_Stock,2864,138
+2026-08-06,751001,East,Large Appliances,Android_v12,Card,WELCOME20,In_Stock,3243,159
+2026-08-07,411001,West,FMCG_Groceries,iOS_v16.6,NetBanking,FESTIVE15,In_Stock,3622,145
+2026-08-08,122001,North,Home Decor,Web,COD,NONE,In_Stock,4001,164
+2026-08-09,560001,South,Fashion,Android_v13,UPI,SAVE10,In_Stock,4380,183
+2026-08-10,751001,East,Mobiles,iOS_v17.2,Wallet,WELCOME20,In_Stock,4759,203
+2026-08-01,411001,West,Laptops,Android_v12,Card,FESTIVE15,In_Stock,637,28
+2026-08-02,122001,North,Winter Wear,iOS_v16.6,NetBanking,NONE,In_Stock,1016,45
+2026-08-03,560103,South,Large Appliances,Web,COD,SAVE10,In_Stock,1395,63
+2026-08-04,751001,East,FMCG_Groceries,Android_v13,UPI,WELCOME20,In_Stock,1774,82
+2026-08-05,411001,West,Home Decor,iOS_v17.2,Wallet,FESTIVE15,In_Stock,2153,102
+2026-08-06,122001,North,Fashion,Android_v12,Card,NONE,In_Stock,2532,122
+2026-08-07,500001,South,Mobiles,iOS_v16.6,NetBanking,SAVE10,In_Stock,2911,143
+2026-08-08,751001,East,Laptops,Web,COD,WELCOME20,In_Stock,3290,132
+2026-08-09,411001,West,Winter Wear,Android_v13,UPI,FESTIVE15,In_Stock,3669,150
+2026-08-10,122001,North,Large Appliances,iOS_v17.2,Wallet,NONE,In_Stock,4048,169
+2026-08-01,560102,South,FMCG_Groceries,Android_v12,Card,SAVE10,In_Stock,4427,189
+2026-08-02,751001,East,Home Decor,iOS_v16.6,NetBanking,WELCOME20,In_Stock,4806,210
+2026-08-03,411001,West,Fashion,Web,COD,FESTIVE15,In_Stock,684,30
+2026-08-04,122001,North,Mobiles,Android_v13,UPI,NONE,In_Stock,1063,48
+2026-08-05,600001,South,Laptops,iOS_v17.2,Wallet,SAVE10,In_Stock,1442,67
+2026-08-06,751001,East,Winter Wear,Android_v12,Card,WELCOME20,In_Stock,1821,86
+2026-08-07,411001,West,Large Appliances,iOS_v16.6,NetBanking,FESTIVE15,In_Stock,2200,106
+2026-08-08,122001,North,FMCG_Groceries,Web,COD,NONE,In_Stock,2579,126
+2026-08-09,560001,South,Home Decor,Android_v13,UPI,SAVE10,In_Stock,2958,118
+2026-08-10,751001,East,Fashion,iOS_v17.2,Wallet,WELCOME20,In_Stock,3337,136
+2026-08-01,411001,West,Mobiles,Android_v12,Card,FESTIVE15,In_Stock,3716,155
+2026-08-02,122001,North,Laptops,iOS_v16.6,NetBanking,NONE,In_Stock,4095,175
+2026-08-03,560103,South,Winter Wear,Web,COD,SAVE10,In_Stock,4474,195
+2026-08-04,751001,East,Large Appliances,Android_v13,UPI,WELCOME20,In_Stock,4853,216
+2026-08-05,411001,West,FMCG_Groceries,iOS_v17.2,Wallet,FESTIVE15,In_Stock,731,33
+2026-08-06,122001,North,Home Decor,Android_v12,Card,NONE,In_Stock,1110,51
+2026-08-07,500001,South,Fashion,iOS_v16.6,NetBanking,SAVE10,In_Stock,1489,70
+2026-08-08,751001,East,Mobiles,Web,COD,WELCOME20,In_Stock,1868,90
+2026-08-09,411001,West,Laptops,Android_v13,UPI,FESTIVE15,In_Stock,2247,110
+2026-08-10,122001,North,Winter Wear,iOS_v17.2,Wallet,NONE,In_Stock,2626,105
